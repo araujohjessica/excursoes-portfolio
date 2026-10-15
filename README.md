@@ -82,4 +82,4 @@ VITE_DEMO=false VITE_API_URL=http://localhost:4001/api npm run dev
 **Jessica Helena Araujo**, engenheira da computação, JA Developers
 
 - GitHub: https://github.com/araujohjessica
-- LinkedIn: https://linkedin.com/in/SEU-PERFIL   
+- LinkedIn: https://linkedin.com/in/jessica-araujo-89b328279/
