@@ -5,6 +5,7 @@
 Plataforma web para venda de excursões a festivais, shows, Carnaval e Réveillon, com transporte de ida e volta e grupo organizado. O projeto inclui o site público, o checkout com pagamento, a área do cliente e um painel administrativo completo.
 
 🔗 **Demo ao vivo:** https://excursoes-portfolio.vercel.app
+
 🧩 **API (backend):** https://github.com/araujohjessica/excursoes-api
 
 > Esta é uma **versão de demonstração**. Todos os dados são fictícios e nenhum pagamento é realizado. O backend é simulado no próprio navegador, então o projeto roda sem servidor.
