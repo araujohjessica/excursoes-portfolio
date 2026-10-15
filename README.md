@@ -10,7 +10,6 @@ Plataforma web para venda de excursões a festivais, shows, Carnaval e Réveillo
 
 > Esta é uma **versão de demonstração**. Todos os dados são fictícios e nenhum pagamento é realizado. O backend é simulado no próprio navegador, então o projeto roda sem servidor.
 
-![Página inicial](docs/home.png)
 
 ## Funcionalidades
 
