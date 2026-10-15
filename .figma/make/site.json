@@ -1,0 +1,15 @@
+{
+  "title": "Excursões",
+  "description": "Excursões para festivais, shows, Carnaval e Réveillon, com transporte de ida e volta e grupo organizado.",
+  "language": "pt-BR",
+  "icons": {
+    "icon": "/favicon.svg"
+  },
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
