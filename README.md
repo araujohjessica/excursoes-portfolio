@@ -23,7 +23,7 @@ Plataforma web para venda de excursões a festivais, shows, Carnaval e Réveillo
 - Acompanhamento de reservas e pagamentos
 - Troca de mensagens com a organização
 
-**Painel administrativo** (`/admin`)
+**Painel administrativo** (`/#/admin`)
 - Cadastro, edição e exclusão de excursões
 - Gestão de pedidos e participantes por evento
 - Central de mensagens com os clientes
@@ -35,7 +35,7 @@ Plataforma web para venda de excursões a festivais, shows, Carnaval e Réveillo
 | Área | Como acessar |
 |---|---|
 | Site público | Página inicial |
-| Painel admin | `/admin` com **qualquer e-mail e senha** |
+| Painel admin | [/#/admin/login](https://excursoes-portfolio.vercel.app/#/admin/login) com **qualquer e-mail e senha** |
 
 ## Tecnologias
 
