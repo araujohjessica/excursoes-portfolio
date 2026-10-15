@@ -1,5 +1,7 @@
 # Excursões — plataforma de venda de excursões
 
+![CI](https://github.com/araujohjessica/excursoes-portfolio/actions/workflows/ci.yml/badge.svg)
+
 Plataforma web para venda de excursões a festivais, shows, Carnaval e Réveillon, com transporte de ida e volta e grupo organizado. O projeto inclui o site público, o checkout com pagamento, a área do cliente e um painel administrativo completo.
 
 🔗 **Demo ao vivo:** https://excursoes-portfolio.vercel.app
